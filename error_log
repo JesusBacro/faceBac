@@ -1,0 +1,282 @@
+[18-Feb-2020 14:33:01 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: NO) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 14:33:01 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 17:33:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: NO) in /home/n89vef2x1p8s/public_html/consul.php on line 8
+[18-Feb-2020 17:33:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/n89vef2x1p8s/public_html/consul.php on line 121
+[18-Feb-2020 17:33:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/consul.php on line 123
+[18-Feb-2020 15:12:28 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 15:12:28 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 18:12:53 UTC] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/n89vef2x1p8s/public_html/pdf.php on line 3
+[18-Feb-2020 18:12:53 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n89vef2x1p8s/public_html/pdf.php on line 3
+[18-Feb-2020 18:13:35 UTC] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/n89vef2x1p8s/public_html/pdf.php on line 3
+[18-Feb-2020 18:13:35 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n89vef2x1p8s/public_html/pdf.php on line 3
+[18-Feb-2020 18:14:10 UTC] PHP Warning:  require(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/n89vef2x1p8s/public_html/pdf.php on line 3
+[18-Feb-2020 18:14:10 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n89vef2x1p8s/public_html/pdf.php on line 3
+[18-Feb-2020 18:15:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[18-Feb-2020 18:15:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/conexion.php on line 25
+[18-Feb-2020 18:18:30 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:16 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:22:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[18-Feb-2020 18:23:47 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/formatos.php on line 84
+[18-Feb-2020 18:23:47 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/formatos.php on line 84
+[18-Feb-2020 15:24:18 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 15:24:18 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 18:24:49 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 15:25:22 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 15:25:22 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 15:25:27 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 15:25:27 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 16:29:17 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 16:29:17 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 16:29:20 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 16:29:20 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 16:47:03 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: YES) in /home/n89vef2x1p8s/public_html/config.php on line 11
+[18-Feb-2020 16:47:03 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/config.php on line 14
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[18-Feb-2020 22:16:18 UTC] PHP Notice:  Undefined index: mar in /home/n89vef2x1p8s/public_html/consul.php on line 138
+[19-Feb-2020 17:50:32 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[20-Feb-2020 18:10:56 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/ne.php on line 95
+[20-Feb-2020 18:10:56 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/ne.php on line 95
+[20-Feb-2020 18:12:43 UTC] PHP Warning:  include(): Filename cannot be empty in /home/n89vef2x1p8s/public_html/ne.php on line 2
+[20-Feb-2020 18:12:43 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n89vef2x1p8s/public_html/ne.php on line 2
+[20-Feb-2020 18:36:19 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:36:21 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:36:22 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:36:25 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:36:28 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:36:38 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:36:44 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/n89vef2x1p8s/public_html/formatos.php on line 3
+[20-Feb-2020 18:42:14 UTC] PHP Notice:  Undefined variable: model in /home/n89vef2x1p8s/public_html/enviar.php on line 168
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/enviar.php on line 46
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: med in /home/n89vef2x1p8s/public_html/enviar.php on line 47
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: color in /home/n89vef2x1p8s/public_html/enviar.php on line 48
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: modelo in /home/n89vef2x1p8s/public_html/enviar.php on line 49
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: serie in /home/n89vef2x1p8s/public_html/enviar.php on line 50
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: cali in /home/n89vef2x1p8s/public_html/enviar.php on line 51
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: vol in /home/n89vef2x1p8s/public_html/enviar.php on line 52
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: tipo in /home/n89vef2x1p8s/public_html/enviar.php on line 53
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: otro in /home/n89vef2x1p8s/public_html/enviar.php on line 55
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: ref in /home/n89vef2x1p8s/public_html/enviar.php on line 56
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined index: cat in /home/n89vef2x1p8s/public_html/enviar.php on line 57
+[20-Feb-2020 18:44:38 UTC] PHP Notice:  Undefined variable: model in /home/n89vef2x1p8s/public_html/enviar.php on line 168
+[20-Feb-2020 19:26:54 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/ne.php on line 95
+[20-Feb-2020 19:26:54 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/ne.php on line 95
+[21-Feb-2020 15:15:47 UTC] PHP Notice:  Undefined index: id in /home/n89vef2x1p8s/public_html/submit.php on line 34
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: date in /home/n89vef2x1p8s/public_html/submit.php on line 27
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: author in /home/n89vef2x1p8s/public_html/submit.php on line 28
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: email in /home/n89vef2x1p8s/public_html/submit.php on line 29
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: desc in /home/n89vef2x1p8s/public_html/submit.php on line 30
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: impacto in /home/n89vef2x1p8s/public_html/submit.php on line 31
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: justif in /home/n89vef2x1p8s/public_html/submit.php on line 32
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: proceso in /home/n89vef2x1p8s/public_html/submit.php on line 33
+[21-Feb-2020 15:18:48 UTC] PHP Notice:  Undefined index: id in /home/n89vef2x1p8s/public_html/submit.php on line 34
+[21-Feb-2020 15:21:12 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:21:12 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:22:42 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:22:42 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:34:58 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:34:58 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:36:06 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:36:06 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: date in /home/n89vef2x1p8s/public_html/redirigir.php on line 111
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: author in /home/n89vef2x1p8s/public_html/redirigir.php on line 118
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: email in /home/n89vef2x1p8s/public_html/redirigir.php on line 125
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: desc in /home/n89vef2x1p8s/public_html/redirigir.php on line 132
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: impacto in /home/n89vef2x1p8s/public_html/redirigir.php on line 139
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: justif in /home/n89vef2x1p8s/public_html/redirigir.php on line 146
+[21-Feb-2020 15:36:55 UTC] PHP Notice:  Undefined variable: proceso in /home/n89vef2x1p8s/public_html/redirigir.php on line 153
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: date in /home/n89vef2x1p8s/public_html/redirigir.php on line 104
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: author in /home/n89vef2x1p8s/public_html/redirigir.php on line 111
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: email in /home/n89vef2x1p8s/public_html/redirigir.php on line 118
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: desc in /home/n89vef2x1p8s/public_html/redirigir.php on line 125
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: impacto in /home/n89vef2x1p8s/public_html/redirigir.php on line 132
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: justif in /home/n89vef2x1p8s/public_html/redirigir.php on line 139
+[21-Feb-2020 15:37:46 UTC] PHP Notice:  Undefined variable: proceso in /home/n89vef2x1p8s/public_html/redirigir.php on line 146
+[21-Feb-2020 15:39:10 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:39:10 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:39:44 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:39:44 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:40:22 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:40:22 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:48:14 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:48:14 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 15:49:17 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 15:49:17 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 16:09:48 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 16:09:48 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 16:09:53 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 16:09:53 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 17:27:48 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 17:27:48 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 17:29:09 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 17:29:09 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 17:39:30 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 17:39:30 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 17:42:24 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/rer.php on line 27
+[21-Feb-2020 17:42:24 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/rer.php on line 28
+[21-Feb-2020 17:43:00 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/rer.php on line 27
+[21-Feb-2020 17:43:00 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/rer.php on line 28
+[21-Feb-2020 17:45:19 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/rer.php on line 27
+[21-Feb-2020 17:45:19 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/rer.php on line 28
+[21-Feb-2020 18:39:39 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/redirigir.php on line 27
+[21-Feb-2020 18:39:39 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/redirigir.php on line 28
+[21-Feb-2020 18:49:55 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/i.php on line 27
+[21-Feb-2020 18:49:55 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/i.php on line 28
+[21-Feb-2020 19:10:34 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/i.php on line 27
+[21-Feb-2020 19:10:34 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/i.php on line 28
+[21-Feb-2020 21:43:04 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/i.php on line 27
+[21-Feb-2020 21:43:04 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/i.php on line 28
+[21-Feb-2020 21:43:25 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/i.php on line 27
+[21-Feb-2020 21:43:26 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/i.php on line 28
+[21-Feb-2020 21:49:45 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 21:49:45 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 21:51:39 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 21:51:39 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 21:52:15 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 21:52:15 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 21:53:50 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 21:53:50 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 21:54:46 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 21:54:46 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 21:58:48 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 21:58:48 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 22:00:20 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/q.php on line 27
+[21-Feb-2020 22:00:20 UTC] PHP Notice:  Undefined index: labor in /home/n89vef2x1p8s/public_html/q.php on line 28
+[21-Feb-2020 23:31:44 UTC] PHP Notice:  Undefined index: id in /home/n89vef2x1p8s/public_html/submi.php on line 34
+[22-Feb-2020 05:33:58 UTC] PHP Notice:  Undefined index: id in /home/n89vef2x1p8s/public_html/submi.php on line 34
+[22-Feb-2020 05:34:37 UTC] PHP Notice:  Undefined variable: model in /home/n89vef2x1p8s/public_html/envia.php on line 166
+[22-Feb-2020 05:54:27 UTC] PHP Notice:  Undefined index: id in /home/n89vef2x1p8s/public_html/submi.php on line 34

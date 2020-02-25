@@ -1,0 +1,118 @@
+[24-Dec-2019 23:15:08 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[29-Dec-2019 01:32:20 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:21 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:21 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:21 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(650): include_once('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(44): activate_plugin('revslider/revsl...', 'https://www.bac...', false)
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:22 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(2223): include('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(175): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:22 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:23 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(2223): include('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(175): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:49 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:50 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:50 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(650): include_once('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(44): activate_plugin('revslider/revsl...', 'https://www.bac...', false)
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:51 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:51 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(2223): include('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(175): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:52 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:52 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:52 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:52 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(2223): include('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(175): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:58 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:58 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(650): include_once('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(44): activate_plugin('revslider/revsl...', 'https://www.bac...', false)
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:32:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:32:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:32:59 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:32:59 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(2223): include('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(175): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[29-Dec-2019 01:33:00 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2364
+[29-Dec-2019 01:33:00 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2368
+[29-Dec-2019 01:33:00 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3169
+[29-Dec-2019 01:33:00 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/n89vef2x1...')
+#4 /home/n89vef2x1p8s/public_html/wp-admin/includes/plugin.php(2223): include('/home/n89vef2x1...')
+#5 /home/n89vef2x1p8s/public_html/wp-admin/plugins.php(175): plugin_sandbox_scrape('revslider/revsl...')
+#6 {main}
+  thrown in /home/n89vef2x1p8s/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71

@@ -1,0 +1,358 @@
+[18-Feb-2020 18:12:01 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 56
+[18-Feb-2020 22:16:32 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 56
+[18-Feb-2020 19:20:52 America/Santiago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bacro'@'localhost' (using password: NO) in /home/n89vef2x1p8s/public_html/view/admin/config.php on line 13
+[18-Feb-2020 19:20:52 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/n89vef2x1p8s/public_html/view/admin/config.php on line 16
+[18-Feb-2020 22:30:30 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 56
+[18-Feb-2020 19:59:41 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 19:59:41 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:00:16 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:00:16 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:00:16 America/Santiago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 232
+[18-Feb-2020 20:00:16 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n89vef2x1p8s/public_html/view/admin/evento.php:67) in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 243
+[18-Feb-2020 20:00:21 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:00:21 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:00:21 America/Santiago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 232
+[18-Feb-2020 20:00:21 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n89vef2x1p8s/public_html/view/admin/evento.php:67) in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 243
+[18-Feb-2020 20:01:48 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:01:48 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:01:48 America/Santiago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 232
+[18-Feb-2020 20:01:48 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n89vef2x1p8s/public_html/view/admin/evento.php:67) in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 243
+[18-Feb-2020 20:01:51 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:01:51 America/Santiago] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 194
+[18-Feb-2020 20:01:51 America/Santiago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 232
+[18-Feb-2020 20:01:51 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/n89vef2x1p8s/public_html/view/admin/evento.php:67) in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 243
+[19-Feb-2020 00:06:12 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 56
+[19-Feb-2020 16:07:09 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[19-Feb-2020 16:10:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[19-Feb-2020 13:47:14 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 13:47:14 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 16:47:26 UTC] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 117
+[19-Feb-2020 16:47:26 UTC] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 118
+[19-Feb-2020 16:51:16 UTC] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 117
+[19-Feb-2020 16:51:16 UTC] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 118
+[19-Feb-2020 16:51:20 UTC] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 117
+[19-Feb-2020 16:51:20 UTC] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 118
+[19-Feb-2020 13:52:03 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 13:52:03 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 16:52:16 UTC] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 117
+[19-Feb-2020 16:52:16 UTC] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 118
+[19-Feb-2020 14:05:34 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:05:34 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 14:22:41 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:22:41 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 14:30:48 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:30:48 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 14:37:59 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:37:59 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 14:45:21 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 41
+[19-Feb-2020 14:45:21 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 42
+[19-Feb-2020 14:45:21 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:45:21 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:46:47 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 41
+[19-Feb-2020 14:46:47 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 42
+[19-Feb-2020 14:46:47 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:46:47 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:47:22 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 41
+[19-Feb-2020 14:47:22 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 42
+[19-Feb-2020 14:47:22 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:47:22 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 44
+[19-Feb-2020 14:57:24 America/Santiago] PHP Notice:  Undefined index: comidas in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 41
+[19-Feb-2020 14:57:24 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 42
+[19-Feb-2020 14:57:25 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 43
+[19-Feb-2020 14:57:25 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 14:57:25 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 15:01:06 America/Santiago] PHP Notice:  Undefined index: comidas in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 41
+[19-Feb-2020 15:01:06 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 42
+[19-Feb-2020 15:01:06 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 43
+[19-Feb-2020 15:01:06 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 15:01:06 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 45
+[19-Feb-2020 18:19:37 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:19:37 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:21:06 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:21:06 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:22:24 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:22:24 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:23:51 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:23:51 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:23:53 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:23:53 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:24:50 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:24:50 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:24:52 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:24:52 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:25:10 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:25:10 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:31:01 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:31:01 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:37:44 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 18:37:44 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 18:07:29 America/Santiago] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 181
+[19-Feb-2020 18:07:29 America/Santiago] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 181
+[19-Feb-2020 19:48:49 America/Santiago] PHP Notice:  Undefined index: comidas in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 34
+[19-Feb-2020 19:48:49 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 35
+[19-Feb-2020 19:48:49 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 36
+[19-Feb-2020 19:48:49 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 38
+[19-Feb-2020 19:48:49 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 38
+[19-Feb-2020 22:49:13 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 22:49:13 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 22:49:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[19-Feb-2020 22:51:28 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 22:51:28 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 22:52:22 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 22:52:22 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 19:54:50 America/Santiago] PHP Notice:  Undefined index: comidas in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 34
+[19-Feb-2020 19:54:50 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 35
+[19-Feb-2020 19:54:50 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 36
+[19-Feb-2020 19:54:50 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 38
+[19-Feb-2020 19:54:50 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 38
+[19-Feb-2020 22:55:14 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 22:55:14 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 22:55:26 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/conexion.php on line 2
+[19-Feb-2020 23:01:13 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:01:13 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:02:31 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:02:31 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:08:26 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:08:26 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:11:41 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:11:41 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:11:48 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:11:48 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:12:24 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:12:24 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:12:26 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 104
+[19-Feb-2020 23:12:26 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 20:20:27 America/Santiago] PHP Notice:  Undefined index: comidas in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 34
+[19-Feb-2020 20:20:27 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 35
+[19-Feb-2020 20:20:27 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 36
+[19-Feb-2020 20:20:27 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 38
+[19-Feb-2020 20:20:27 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 38
+[19-Feb-2020 23:20:37 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 112
+[19-Feb-2020 23:20:37 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 113
+[19-Feb-2020 23:23:57 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:23:57 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 106
+[19-Feb-2020 23:28:59 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:28:59 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 106
+[19-Feb-2020 23:29:40 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:29:40 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 106
+[19-Feb-2020 23:29:42 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 105
+[19-Feb-2020 23:29:42 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 106
+[19-Feb-2020 23:29:57 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 112
+[19-Feb-2020 23:29:57 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 113
+[19-Feb-2020 23:31:33 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 113
+[19-Feb-2020 23:31:33 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 114
+[19-Feb-2020 23:32:51 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 115
+[19-Feb-2020 23:32:51 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 116
+[19-Feb-2020 23:35:35 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 115
+[19-Feb-2020 23:35:35 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 116
+[19-Feb-2020 23:36:04 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 115
+[19-Feb-2020 23:36:04 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 116
+[20-Feb-2020 05:06:52 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 70
+[20-Feb-2020 05:06:52 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 86
+[20-Feb-2020 05:17:50 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 95
+[20-Feb-2020 05:17:50 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 111
+[20-Feb-2020 05:26:11 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 93
+[20-Feb-2020 05:26:11 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 109
+[20-Feb-2020 05:26:28 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 93
+[20-Feb-2020 05:26:28 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 109
+[20-Feb-2020 05:31:07 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 93
+[20-Feb-2020 05:31:07 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 109
+[20-Feb-2020 05:32:30 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 93
+[20-Feb-2020 05:32:30 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 109
+[20-Feb-2020 05:38:07 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 93
+[20-Feb-2020 05:38:07 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 109
+[20-Feb-2020 05:41:11 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 95
+[20-Feb-2020 05:41:11 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 111
+[20-Feb-2020 05:41:38 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 95
+[20-Feb-2020 05:41:38 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 111
+[20-Feb-2020 05:47:21 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 95
+[20-Feb-2020 05:47:21 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 111
+[20-Feb-2020 05:49:00 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 95
+[20-Feb-2020 05:49:00 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 111
+[20-Feb-2020 05:49:36 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 95
+[20-Feb-2020 05:49:36 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 111
+[20-Feb-2020 05:51:57 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 62
+[20-Feb-2020 05:51:57 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 78
+[20-Feb-2020 05:52:11 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 62
+[20-Feb-2020 05:52:11 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 78
+[20-Feb-2020 05:52:51 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 62
+[20-Feb-2020 05:52:51 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 78
+[20-Feb-2020 05:54:21 UTC] PHP Notice:  Undefined index: almacen in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 67
+[20-Feb-2020 05:54:21 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 83
+[20-Feb-2020 05:55:22 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 83
+[20-Feb-2020 05:56:21 UTC] PHP Notice:  Undefined index: acceso in /home/n89vef2x1p8s/public_html/view/admin/header.php on line 116
+[20-Feb-2020 14:53:11 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/induccion.php on line 68
+[20-Feb-2020 14:53:11 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/induccion.php on line 68
+[20-Feb-2020 15:11:04 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 81
+[20-Feb-2020 16:03:59 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 77
+[20-Feb-2020 16:23:34 UTC] PHP Warning:  include(cabeza.php): failed to open stream: No such file or directory in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 17
+[20-Feb-2020 16:23:34 UTC] PHP Warning:  include(): Failed opening 'cabeza.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 17
+[20-Feb-2020 17:50:10 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 115
+[20-Feb-2020 17:50:10 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 116
+[20-Feb-2020 17:51:32 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[20-Feb-2020 17:51:32 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[20-Feb-2020 17:52:36 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[20-Feb-2020 17:52:36 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[20-Feb-2020 17:54:40 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[20-Feb-2020 17:54:40 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[21-Feb-2020 15:55:56 UTC] PHP Parse error:  syntax error, unexpected ''Dar a nuestros clientes servi' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 39
+[21-Feb-2020 15:56:00 UTC] PHP Parse error:  syntax error, unexpected ''Dar a nuestros clientes servi' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 39
+[21-Feb-2020 15:56:01 UTC] PHP Parse error:  syntax error, unexpected ''Dar a nuestros clientes servi' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 39
+[21-Feb-2020 15:58:10 UTC] PHP Parse error:  syntax error, unexpected ''Dar a nuestros clientes servi' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 43
+[21-Feb-2020 15:58:25 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 39
+[21-Feb-2020 15:59:11 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 39
+[21-Feb-2020 15:59:35 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 41
+[21-Feb-2020 15:59:40 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 41
+[21-Feb-2020 16:00:30 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 16:00:55 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 16:01:08 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 16:01:09 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 16:03:27 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:03:59 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:04:27 UTC] PHP Notice:  Undefined variable: i in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:08:28 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:08:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:08:45 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:09:21 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 41
+[21-Feb-2020 16:09:32 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:09:34 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:09:35 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:09:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:09:50 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 16:09:55 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 40
+[21-Feb-2020 17:00:19 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/view/admin/conexion.php on line 2
+[21-Feb-2020 17:00:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 33
+[21-Feb-2020 17:00:19 UTC] PHP Notice:  Undefined variable: pdf in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 34
+[21-Feb-2020 17:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Cell() on null in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 34
+[21-Feb-2020 17:00:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Conexion has a deprecated constructor in /home/n89vef2x1p8s/public_html/view/admin/conexion.php on line 2
+[21-Feb-2020 17:00:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 33
+[21-Feb-2020 17:00:34 UTC] PHP Notice:  Undefined variable: pdf in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 34
+[21-Feb-2020 17:00:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Cell() on null in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 34
+[21-Feb-2020 17:03:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 34
+[21-Feb-2020 17:03:10 UTC] PHP Notice:  Undefined variable: pdf in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 35
+[21-Feb-2020 17:03:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Cell() on null in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 35
+[21-Feb-2020 17:05:05 UTC] PHP Notice:  Undefined variable: pdf in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 36
+[21-Feb-2020 17:05:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Cell() on null in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 36
+[21-Feb-2020 17:05:08 UTC] PHP Notice:  Undefined variable: pdf in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 36
+[21-Feb-2020 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function Cell() on null in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 36
+[21-Feb-2020 17:05:53 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:05:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:05:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:06:26 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:06:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:06:53 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:06:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:06:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:07:27 UTC] PHP Warning:  Use of undefined constant utf8_decode - assumed 'utf8_decode' (this will throw an Error in a future version of PHP) in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:07:27 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:07:27 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:07:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:07:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:08:43 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:08:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:08:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:08:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 28
+[21-Feb-2020 17:11:51 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:11:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 21
+[21-Feb-2020 17:11:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:14:46 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 17:14:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 17:14:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 43
+[21-Feb-2020 17:14:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php(1060): FPDF->Error('Some data has a...')
+#1 /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/n89vef2x1p8s/public_html/view/admin/dscarga.php(82): FPDF->Output()
+#3 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php on line 271
+[21-Feb-2020 17:15:16 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 17:15:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 42
+[21-Feb-2020 17:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 43
+[21-Feb-2020 17:15:16 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php(1060): FPDF->Error('Some data has a...')
+#1 /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/n89vef2x1p8s/public_html/view/admin/dscarga.php(82): FPDF->Output()
+#3 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/fpdf/fpdf.php on line 271
+[21-Feb-2020 17:15:34 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:15:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:15:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 24
+[21-Feb-2020 17:16:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:16:30 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:16:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:16:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 24
+[21-Feb-2020 17:16:47 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 22
+[21-Feb-2020 17:16:47 UTC] PHP Notice:  Undefined variable: con in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:16:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 23
+[21-Feb-2020 17:16:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n89vef2x1p8s/public_html/view/admin/dscarga.php on line 24
+[21-Feb-2020 18:05:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/d.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/d.php on line 45
+[21-Feb-2020 18:05:53 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/n89vef2x1p8s/public_html/view/admin/d.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/n89vef2x1p8s/public_html/view/admin/d.php on line 45
+[21-Feb-2020 18:19:16 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 85
+[21-Feb-2020 20:14:28 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/politica.php on line 68
+[21-Feb-2020 20:14:28 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/politica.php on line 68
+[22-Feb-2020 01:06:12 America/Santiago] PHP Notice:  Undefined index: comidas in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 35
+[22-Feb-2020 01:06:12 America/Santiago] PHP Notice:  Undefined index: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 36
+[22-Feb-2020 01:06:12 America/Santiago] PHP Notice:  Undefined index: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 37
+[22-Feb-2020 01:06:12 America/Santiago] PHP Notice:  Undefined variable: day in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 39
+[22-Feb-2020 01:06:12 America/Santiago] PHP Notice:  Undefined variable: com in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 39
+[22-Feb-2020 04:06:12 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 85
+[22-Feb-2020 04:07:50 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[22-Feb-2020 04:07:50 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[22-Feb-2020 04:08:24 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[22-Feb-2020 04:08:24 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[22-Feb-2020 04:08:43 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[22-Feb-2020 04:08:43 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[22-Feb-2020 05:48:29 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[22-Feb-2020 05:48:29 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[22-Feb-2020 05:50:46 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[22-Feb-2020 05:50:46 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[24-Feb-2020 16:45:37 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/induccion.php on line 69
+[24-Feb-2020 16:45:37 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/induccion.php on line 69
+[24-Feb-2020 17:31:50 UTC] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/index.php on line 85
+[24-Feb-2020 15:49:08 America/Santiago] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 182
+[24-Feb-2020 15:49:08 America/Santiago] PHP Notice:  Undefined index: nombre in /home/n89vef2x1p8s/public_html/view/admin/evento.php on line 182
+[24-Feb-2020 18:57:55 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[24-Feb-2020 18:57:55 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
+[24-Feb-2020 20:51:50 UTC] PHP Notice:  Undefined variable: dia in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 91
+[24-Feb-2020 20:51:50 UTC] PHP Notice:  Undefined variable: comida in /home/n89vef2x1p8s/public_html/view/admin/descripcion_evento.php on line 92
